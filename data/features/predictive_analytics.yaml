@@ -1,0 +1,5 @@
+weight: 2
+name: "Predictive Analytics"
+icon: "fas fa-project-diagram"
+url: ""
+description: "Sometimes you need a model. We can use machine learning (ML) to help with all your prediction and classification needs."
